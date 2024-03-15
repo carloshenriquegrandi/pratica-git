@@ -9,9 +9,4 @@ class leitorarquivo:
 
 
 
-if __name__ == '__main__':
-    leitor = leitorarquivo("data.txt")
-    listaValores = leitor.getValores()
-    print(listaValores)
-
 
